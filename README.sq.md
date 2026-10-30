@@ -2,11 +2,11 @@
 
 # TrafficPilot
 
-**Konfiguroni dhe shqyrtoni fushatat e trafikut të faqes.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="TrafficPilot — Traffic campaigns; conceptual product illustration" />
+<img src="assets/product-hero.svg" width="100%" alt="TrafficPilot — prezantim vizual i produktit" />
+
+**Konfiguroni dhe shqyrtoni fushatat e trafikut të faqes.**
 
 [![Website](https://img.shields.io/badge/trafficpilot.mk-Official_Website-1476e8?style=for-the-badge)](https://trafficpilot.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://trafficpilot.mk/)
@@ -69,7 +69,7 @@ Ilustrimi është konceptual, jo pamje aplikacioni. Ndërfaqja, opsionet dhe kus
 | Hollësia | Vlera |
 |---|---|
 | Domeni | [trafficpilot.mk](https://trafficpilot.mk/) |
-| Kategoria | Traffic campaigns |
+| Kategoria | Fushata trafiku për faqe |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Burimi: [Faqja zyrtare](https://trafficpilot.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·

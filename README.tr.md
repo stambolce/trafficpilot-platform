@@ -2,11 +2,11 @@
 
 # TrafficPilot
 
-**Web sitesi trafik kampanyalarını yapılandırıp inceleyin.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="TrafficPilot — Traffic campaigns; conceptual product illustration" />
+<img src="assets/product-hero.svg" width="100%" alt="TrafficPilot — ürün görsel sunumu" />
+
+**Web sitesi trafik kampanyalarını yapılandırıp inceleyin.**
 
 [![Website](https://img.shields.io/badge/trafficpilot.mk-Official_Website-1476e8?style=for-the-badge)](https://trafficpilot.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://trafficpilot.mk/)
@@ -69,7 +69,7 @@ Görsel kavramsaldır, uygulama ekranı değildir. Güncel arayüz, seçenekler 
 | Ayrıntı | Değer |
 |---|---|
 | Alan adı | [trafficpilot.mk](https://trafficpilot.mk/) |
-| Kategori | Traffic campaigns |
+| Kategori | Web sitesi trafik kampanyaları |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Kaynak: [Resmî web sitesi](https://trafficpilot.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
